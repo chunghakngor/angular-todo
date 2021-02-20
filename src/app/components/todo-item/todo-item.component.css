@@ -1,0 +1,11 @@
+.delete-btn {
+  background: red;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  float: right;
+}
+
+.isCompleted {
+  text-decoration: line-through; 
+}
